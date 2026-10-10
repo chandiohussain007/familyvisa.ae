@@ -1,0 +1,6 @@
+{
+  "name": "FamilyVisa.ae — UAE Family Residence Visa Platform",
+  "description": "Ultra-clean UAE family residence visa platform with real-time eligibility calculator, official government fee breakdown, document auditor, and live status tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
